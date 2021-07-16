@@ -75,7 +75,7 @@
                                 <div class="flip-card">
                                     <div class="flip-card-inner">
                                         <div class="flip-card-front">
-                                            <img src="https://e7.pngegg.com/pngimages/989/708/png-clipart-unicef-logo-unicef-graphics-logo-invitational-banquet.png"
+                                            <img src="frontend/images/unicef.png"
                                                 style="width:100%;height:250px;" class="card-img-top" alt="UNICEF">
                                         </div>
                                         <div class="flip-card-back">

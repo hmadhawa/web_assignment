@@ -3,7 +3,7 @@
 <footer class="footer">
     <div class="container bottom_border" >
         <div class="row" >
-           <div class="col-lg-6 col-md-6 col-sm-6 col" style="text-align: center;">
+           <div class="col-lg-6 col-md-6 col-sm-6 col" style="text-align:center;">
                 <h5 class="headin5_amrc col_white_amrc pt2">About us</h5>
                 <!--headin5_amrc-->
                 <p class="mb10">The final project of 20.2 Batch - UGC - Group earthwise  </p>
@@ -12,7 +12,7 @@
                 <p><i class="fa fa-phone"></i> +94 71 969 9986 </p>
                 <p><i class="fa fa fa-envelope"></i> niseka.pathiraja@gmail.com</p>
            </div>
-           <div class="col-lg-3 col-md-6 col-sm-6 col">
+           <div class="col-lg-6 col-md-6 col-sm-6 col" >
                 <h5 class="headin5_amrc col_white_amrc pt2">Follow us</h5>
                 <!--headin5_amrc ends here-->
                 <ul class="footer_ul2_amrc">

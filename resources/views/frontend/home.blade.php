@@ -227,7 +227,7 @@
                <p> <ensp>Contact us to get more information about you can be part of this fight against climate change</p>
             </div>
             <div class="col-md-4">
-               <a class="btn btn-lg btn-secondary btn-block" href="#">Get In Touch Now</a>
+               <a class="btn btn-lg btn-secondary btn-block" href="https://www.linkedin.com/in/madhawa-dissanayake-310406195/">Get In Touch Now</a>
             </div>
         </div>
     </div>
