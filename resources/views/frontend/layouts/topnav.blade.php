@@ -1,5 +1,5 @@
 <!-- Navigation -->
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-light top-nav fixed-top">
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-light top-nav fixed-top" style="bottom: 88%;"> 
     <div class="container">
         <a class="navbar-brand" href="index.html">
             <img src="{{ asset('frontend/images/logo1.jpeg') }}" alt="logo" style="height:70px;"/>

@@ -19,12 +19,10 @@
                     <li>
                         <a href="#"><i class="fab fa-instagram fleft padding-right"></i> </a>
                         <p><a href="#">https://instagram.com/sandali_atigoda?utm_medium=copy_link</a></p>
-                    </li>
-                    <li>
+                   
                         <a href="#"><i class="fab fa-linkedin fleft padding-right"></i> </a>
                         <p><a href="#">https://www.linkedin.com/in/supipi-piyumra-6787b61ab</a></p>
-                    </li>
-                    <li>
+                   
                         <a href="#"><i class="fab fa-facebook fleft padding-right"></i> </a>
                         <p><a href="#">https://www.facebook.com/wathsala.gamarachchi</a></p>
                     </li>
@@ -87,9 +85,7 @@
         </div>
     </div>
     <div class="container">
-        <div class="footer-logo">
-            <a href="#"><img src="images/footer-logo.png" alt="" /></a>
-        </div>
+       
         <!--foote_bottom_ul_amrc ends here-->
         <p class="copyright text-center">All Rights Reserved. &copy; 2021 <a href="#">Earthwise</a> 
         </p>
