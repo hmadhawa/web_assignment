@@ -2,7 +2,7 @@
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-light top-nav fixed-top">
     <div class="container">
         <a class="navbar-brand" href="index.html">
-            <img src="{{ asset('frontend/images/logo.png') }}" alt="logo" />
+            <img src="{{ asset('frontend/images/logo1.jpeg') }}" alt="logo" style="height:70px;"/>
         </a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
             data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
@@ -38,9 +38,11 @@
                         <a class="dropdown-item" href="pricing.html">Pricing Table</a>
                     </div>
                 </li> --}}
-                <li class="nav-item">
+                
+                <!-- <li class="nav-item">
                     <a class="nav-link" href="#">Contact</a>
-                </li>
+                </li> -->
+                
                 <li class="nav-item">
                     <a class="nav-link" href="/home">Admin</a>
                 </li>

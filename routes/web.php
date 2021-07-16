@@ -23,7 +23,9 @@ Route::get('/', function () {
 Route::get('homepage',function(){
     return view('frontend/home');
 });
-
+Route::get('/admin/{any?}', function(){
+    return redirect('/home');
+});
 
 // blog
 Route::get('/blog', function () {

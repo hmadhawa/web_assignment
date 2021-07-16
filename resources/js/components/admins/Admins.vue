@@ -392,10 +392,10 @@ export default {
                     password_confirmation : this.password_confirmation,
                 }).then((res) => {
 
-                    if (res.status == 200 && res.data == 1) {
+                    if (res.status == 200 && res.data == 1) {npm
 
                         Swal.fire({
-                            position: 'top-end',
+                            position: 'top-centre',
                             icon: 'success',
                             title: 'Successfully Insert a Admin',
                             showConfirmButton: false,

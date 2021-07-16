@@ -126,16 +126,19 @@
         <div class="card-body">
             <br>
             <br>
+            <div style="text-align:center;">
             <h6>
                 <p> It is our collective and individual responsibility to preserve and tend to the world in which we all
                     live.All must pay the debt of nature .Fill this form for the donations .</p>
                 <p>Let s heal our world....</p>
             </h6>
+            </div>
+            
 
             <div class="testbox">
                 <form action="/submitdonation" method="POST">
                     @csrf
-                    <div class="banner">
+                    <div style="text-align:center;">
                         <h1>Donation Form</h1>
                     </div>
                     <br />
@@ -226,14 +229,7 @@
     <br>
     <br>
 
-    <div class="card" style="width: 18rem;">
-        <div class="card-body">
-            <h5 class="card-title">Bank Details</h5>
-            <h6 class="card-subtitle mb-2 text-muted">text</h6>
-            <p class="card-text"></p>
-
-        </div>
-    </div>
+    
     <br>
     <br>
 

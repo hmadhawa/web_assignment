@@ -12,26 +12,29 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                <!-- Slide One - Set the background image for this slide in the line below -->
-               <div class="carousel-item active" style="background-image: url('frontend/images/slider-01.jpg');height:620px;">
+
+               <div class="carousel-item active" style="background-image: url('frontend/images/slider-4.jpeg');height:800px;">
                   <div class="carousel-caption d-none d-md-block">
-                     <h1>PROTECT OUR EARTH...</h1>
-                     <p>Do you part to save the planet. Every action count! </p>
+                     <h1>BEAUTY OF NATURE</h1>
+                     <p>Every person has a duty save the mother nature.</p>
                   </div>
                </div>
+              
                <!-- Slide Two - Set the background image for this slide in the line below -->
-               <div class="carousel-item" style="background-image: url('frontend/images/slider-02.jpg');height:620px;">
+               <div class="carousel-item" style="background-image: url('frontend/images/slider-02.jpg');height:800px;">
                   <div class="carousel-caption d-none d-md-block">
                      <h1>MOTHER EARTH NEEDS YOU</h1>
                      <p>Protecting the planet is every person's duty</p>
                   </div>
                </div>
                <!-- Slide Three - Set the background image for this slide in the line below -->
-               <div class="carousel-item" style="background-image: url('frontend/images/slider-03.jpg');height:620px;">
+               <div class="carousel-item " style="background-image: url('https://iaps-association.org/wp-content/uploads/2021/02/nature-3289812_1920.jpg');height:800px;">
                   <div class="carousel-caption d-none d-md-block">
-                     <h1>BEAUTY OF NATURE</h1>
-                     <p>Every person has a duty save the mother nature.</p>
+                     <h1>PROTECT OUR EARTH...</h1>
+                     <p>Do you part to save the planet. Every action count! </p>
                   </div>
                </div>
+              
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
 				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -112,7 +115,7 @@
                   <p></p>
                </div>
                <div class="col-lg-6">
-                  <img class="img-fluid rounded" src="{{ asset('frontend/images/about-img.jpg')}}" alt="" />
+                  <img class="img-fluid rounded" src="{{ asset('frontend/images/climate3.jpeg')}}" alt="" />
                </div>
             </div>
             <!-- /.row -->

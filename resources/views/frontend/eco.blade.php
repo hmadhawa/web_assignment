@@ -37,23 +37,18 @@
             <div class="carousel-inner" >
                 <div class="carousel-item active" style="height:620px;">
                     <img class="d-block w-100"
-                        src="https://www.stem.org.uk/sites/default/files/fieldable-panel-panes/rich-text/Climate%20change%20header.png"
+                        src="frontend/images/climate.jpeg"
                         alt="First slide"
                         style="height:620px;">
                 </div>
                 <div class="carousel-item"style="height:620px;">
                     <img class="d-block w-100"
-                        src="https://um.baden-wuerttemberg.de/fileadmin/_processed_/9/b/csm_Haende-halten-die-Erdkugel_ipopba_Fotolia_2434x1310_71a68f6659.jpg"
+                        src="frontend/images/climate 2.jpeg"
                         alt="Second slide"
                         style="height:620px;">
                 </div>
                 
-                <div class="carousel-item" style="height:620px;">
-                    <img class="d-block w-100"
-                        src="https://www.qs.com/wp-content/uploads/2020/07/higher-education-climate-change.jpg"
-                        alt="Third slide"
-                        style="height:620px;">
-                </div>
+                
                 <div class="carousel-item" style="height:620px;">
                     <img class="d-block w-100"
                         src="https://www.iceniprojects.com/wp-content/uploads/2019/06/We%E2%80%99ve-heard-plenty-of-rhetoric-surrounding-the-climate-emergency-but-where%E2%80%99s-the-action.png"
